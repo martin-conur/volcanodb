@@ -1,4 +1,8 @@
-# volcanic_eruptions
+# volcanodb
+###Dash APP
+
+This is a dash app about earth volcanoes, eruptions and research
+
 ### Context
 
 Volcanic eruptions are an exceptional phenomena, one of the few (if not the only one) that's capable to connect the litosphere with the troposphere in very short timescale. Despite the dangers that represents for local inhabitants, volcanic eruption can also affect the whole planet ([https://en.wikipedia.org/wiki/Year_Without_a_Summer](https://en.wikipedia.org/wiki/Year_Without_a_Summer)).
